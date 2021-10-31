@@ -1,1 +1,2 @@
-# json-server-playground
+install globally : npm install -g json-server
+run : json-server --watch data\db.json  --port 8081
